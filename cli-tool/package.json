@@ -1,0 +1,14 @@
+{
+  "name": "doc-tester-repro-a",
+  "main": "src/index.js",
+  "dependencies": {
+    "@code-to-json/comments": "^1.0.0-rc.19",
+    "@code-to-json/formatter-linker": "^1.0.0-rc.10",
+    "@code-to-json/utils-node": "^1.0.0-rc.22",
+    "@code-to-json/utils-ts": "^1.0.0-rc.22",
+    "doc-tester": "sparshithNR/doc-tester#open-to-external"
+  },
+  "resolutions": {
+    "doc-tester": "sparshithNR/doc-tester#open-to-external"
+  }
+}
